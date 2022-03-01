@@ -1,4 +1,42 @@
-body {background-color:#928374; font-family: monospace;}
-a:link {color: blue; background-color: transparent; text-decoration: none;}
-a:visited {color: purple; background-color: transparent; text-decoration: none;}
-h1 {text-align: center;}
+.nav-container {
+  float: left;
+  padding: 0px;
+  width: 20&;
+}
+
+body {
+  background-color:#D9E0EE;
+  font-family: Courier;
+}
+
+nav {
+  float: left;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  text-align: center;
+}
+div {
+  width: 300px;
+  margin: auto;
+}
+ul {
+  list-style-type: lower-roman;
+  margin: 0;
+  padding: 10;
+  width: 15%;
+  background-color: #988BA2;
+  height: 100%;
+  position: fixed;
+  overflow: auto;
+}
+
+p {
+  width: 1000px;
+  margin: auto;
+}
